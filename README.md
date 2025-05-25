@@ -133,9 +133,8 @@ git push origin feat/your-feature
 
 
 • Email: support@whitedestrier.faith
-• Emergency: +1 (555) WD-HELP
 • Status Page: status.whitedestrier.faith
-• API Portal: api.whitedestrier.faith
+• API Portal: https://whitedestrier.faith/portal.php
 
 
             Apache 2.0 LICENSE
